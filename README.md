@@ -1,4 +1,4 @@
-# Dinner-Grocery-Project
+# Dinner and Grocery Assistant
 Python project to help meal plan using a variety of methods, including random generation.
 
 /Python with Pandas
